@@ -1,6 +1,9 @@
  Case-Social-Connect
 
+## Tecnologias utilizadas
 
+- Html
+- Git e Github
 
 ## Correções Do Projeto
 
@@ -9,7 +12,7 @@ Neste projeto utilizamos git para fixação de erros no sites
 - Corres erradas
 - Rodapé desatualizado com erros
 - Correção sobre nós
-- Adicionar item Projetos que estava faltando
+- Adicionar item Projetos que estava faltando ao lado do inicio
 
 
 
@@ -17,6 +20,7 @@ Neste projeto utilizamos git para fixação de erros no sites
 - adição texto equipe
 - adição seção de contato
 - adição de redes sociais no rodapé
+  
 ## Como Foi Feito
 
 - Protegemos a branch main
